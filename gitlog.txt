@@ -1,0 +1,23 @@
+commit 7f20e83676eef3f36214f0d962fc27b87598948a
+Author: clu21 <clu21@jhmi.edu>
+Date:   Wed Apr 22 17:55:15 2020 -0400
+
+    added gitignore
+
+commit 4484dc277273f8d8204251e45c77ce853d9b8e8d
+Author: clu21 <clu21@jhmi.edu>
+Date:   Wed Apr 22 17:48:47 2020 -0400
+
+    added gitignore
+
+commit a1de2c4c1b68048a614d7113339ecbb279d9cc31
+Author: clu21 <clu21@jhmi.edu>
+Date:   Wed Apr 22 16:48:09 2020 -0400
+
+    added two files
+
+commit 3cba503933b7ca064e066e0faee42d1b8ed680a7
+Author: clu21 <clu21@jhmi.edu>
+Date:   Wed Apr 22 16:37:22 2020 -0400
+
+    added readme.txt
